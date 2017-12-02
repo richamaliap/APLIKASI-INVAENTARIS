@@ -94,7 +94,8 @@ class C_Barang extends CI_Controller {
         $this->load->view('Foot/V_Footer');
     }
 
-public function nana(){
+public function lala(){
+
 }
 
 
